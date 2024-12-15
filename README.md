@@ -5,7 +5,7 @@
 This repository contains all the code, input data, and results of the basketball image detection project completed by Evan Chen (echen48), Elliot Sherman (ehs4), and Selina Tang (sytang2). Some of the initial work was done via Colab, but the final version of the code ran can be found in `src/CS445_final_code.ipynb`. The repository is located at https://github.com/zuyouchen/cs445-final-proj. 
 
 ### Running The Code 
-To run the code and reproduce results, please use a Python 3.12.7 environment with the requirements specified by `src/requirements.txt`. An easy way to do so would be to create a `venv` and then `pip install -r requirements.txt` once inside the `src` directory.
+To run the code and reproduce results, please use a Python 3.12.7 environment with the requirements specified by `src/requirements.txt`. An easy way to do so would be to create a `venv` and then `pip install -r requirements.txt` once inside the `src` directory. Then, run the code inside the `src/CS445_final_code.ipynb` - if this file is having trouble loading, our code can also be viewed via `src/CS445_final_code.pdf`. 
 
 ### Organization 
 The organization of this repository is as follows:
